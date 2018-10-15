@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+canvas{
+  border: 1px solid black;
+  position: absolute;
+  left:25%;
+}
